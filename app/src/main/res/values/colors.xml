@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="brand_primary">#134574</color>
+    <color name="brand_secondary">#1F6F8B</color>
+    <color name="brand_gradient_start">#134574</color>
+    <color name="brand_gradient_end">#F0F4F8</color> <color name="gray_text">#888888</color>
+    <color name="gray_background">#F5F6FA</color>
+    <color name="gray_hint">#CCCCCC</color>
+    <color name="green_supported">#29A22E</color>
+    <color name="status_success">#1ABC9C</color> <color name="status_error">#FF6B6B</color>
+</resources>

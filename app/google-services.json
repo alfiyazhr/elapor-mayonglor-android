@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999640958614",
+    "project_id": "elapormayonglor-824ce",
+    "storage_bucket": "elapormayonglor-824ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999640958614:android:dddd2eb2daca50e6ef64b7",
+        "android_client_info": {
+          "package_name": "com.example.elapormayonglor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqEUqwBKslKxkzKAGFdTEFyRC12yMM3Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
