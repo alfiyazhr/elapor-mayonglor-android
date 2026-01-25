@@ -37,4 +37,5 @@ Proyek ini mengikuti *best practice* keamanan dengan tidak melakukan *hardcode* 
 
 ---
 *Dikembangkan sebagai Tugas Akhir (Skripsi) - Teknik Informatika **Universitas Muria Kudus***.
+
 *Maintainer: **Alfiya Zahrotul Jannah***
